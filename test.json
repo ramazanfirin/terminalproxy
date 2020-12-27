@@ -1,0 +1,8 @@
+{
+	"type": "http://www.jhipster.tech/problem/problem-with-message",
+	"title": "Internal Server Error",
+	"status": 500,
+	"detail": "{\r\n\"operator\": \"AddPerson\",\r\n\"code\":466,\r\n\"info\": {\r\n\"Result\": \"Fail\",\r\n\"Detail\": \"CustomizeID or UUID had existed\"\r\n}\r\n}\r\n",
+	"path": "/api/terminals/addPerson",
+	"message": "error.http.500"
+}
