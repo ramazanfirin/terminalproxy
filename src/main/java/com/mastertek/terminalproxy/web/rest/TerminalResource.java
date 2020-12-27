@@ -40,7 +40,7 @@ public class TerminalResource {
 
     private final TerminalRepository terminalRepository;
     
-    TerminalManager terminalManager;
+    //TerminalManager terminalManager;
 	
 	private final WellcamDeviceService wellcamDeviceService;
 
